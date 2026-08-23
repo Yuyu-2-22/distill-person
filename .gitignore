@@ -20,3 +20,7 @@ chat.json
 __pycache__/
 *.pyc
 .venv/
+
+# temporary push script (may contain credentials, do not commit)
+_push.ps1
+
