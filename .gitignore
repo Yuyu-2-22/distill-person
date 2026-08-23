@@ -1,0 +1,22 @@
+# 解密密钥（含真实密钥，严禁提交）
+all_keys.json
+keys.json
+*.keys
+
+# 解密后的数据库
+*.db
+decrypted/
+db_storage/
+
+# 导出的聊天数据（可能含真实隐私，严禁提交）
+output/
+*.chat.json
+chat.json
+
+# 运行时日志
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
